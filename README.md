@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arnav-Sharma-1030
-- 👀 I’m interested in Android App Developer
-- 🌱 I’m currently learning Kotlin, Flutter, java
-- 💞️ I’m looking to collaborate on Android App Developer 
+- 👀 I’m interested in Data Analytic 
+- 🌱 I’m currently learning Python,R,Tableau,PowerBI,Sql
+- 💞️ I’m looking to collaborate on Data Analytic 
 - 📫 How to reach me arnavsharma7352@gmail.com
 
 <!---
